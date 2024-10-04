@@ -1,0 +1,42 @@
+Mess menu management system
+
+User : 
+user is able to login 
+user is able to see all mess menu's data without login also
+User : {name, email, password}
+
+
+Admin: 
+Admin login
+only admin is able to change the menu
+
+Menu:
+Menu : {mess name, }a
+
+
+
+
+
+
+////////////////
+
+admin: 
+
+menu:
+
+
+
+// 
+i want to make make management system. In this project user is able to see all mess menu data without login.
+admin is able to change the menu. 
+
+
+
+
+
+
+
+
+
+//
+
